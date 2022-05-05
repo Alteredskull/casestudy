@@ -1,0 +1,40 @@
+.card {
+    margin: 20px;
+}
+
+button {
+    background-color: #2DA69A !important;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #2DA69A;
+}
+
+.midh1 {
+    text-align: center;
+}
+
+.midp {
+    text-align: center;
+}
+
+.nav-item {
+    border-bottom: 2px solid transparent !important;
+}
+
+.nav-item:hover {
+    border-bottom: 2px solid #2DA69A !important;
+}
+
+.alert {
+    margin: 20px;
+}
+
+.midimg {
+    text-align: center;
+    margin-right: 3px;
+}
+
+.editava {
+    color: lightskyblue;
+}

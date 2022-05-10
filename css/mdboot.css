@@ -38,3 +38,20 @@ button {
 .editava {
     color: lightskyblue;
 }
+
+.container {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.accordion-button {
+    color: white !important;
+}
+
+.navbar-toggler {
+    background-color: white !important;
+}
+
+.btn-close {
+    background-color: white !important;
+}

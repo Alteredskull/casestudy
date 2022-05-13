@@ -55,3 +55,9 @@ button {
 .btn-close {
     background-color: white !important;
 }
+
+.close {
+    background-color: transparent !important;
+    float: right;
+    border: none;
+}
